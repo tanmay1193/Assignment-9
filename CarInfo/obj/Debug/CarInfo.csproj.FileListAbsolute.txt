@@ -1,0 +1,14 @@
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\bin\Debug\CarInfo.exe.config
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\bin\Debug\CarInfo.exe
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\bin\Debug\CarInfo.pdb
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo.csprojResolveAssemblyReference.cache
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\MainWindow.g.cs
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\App.g.cs
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo_MarkupCompile.cache
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo_MarkupCompile.lref
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\MainWindow.baml
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo.g.resources
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo.Properties.Resources.resources
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo.csproj.GenerateResource.Cache
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo.exe
+C:\Users\techi\Downloads\PROG8010_A9-master\PROG8010_A9-master\CarInfo\obj\Debug\CarInfo.pdb
